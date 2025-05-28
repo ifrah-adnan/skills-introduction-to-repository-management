@@ -1,0 +1,14 @@
+# fichiers Python temporaires
+__pycache__/
+*.py[cod]
+
+# fichiers système
+.DS_Store
+Thumbs.db
+
+# environnements virtuels
+env/
+venv/
+
+# fichiers de config secrets
+.env
