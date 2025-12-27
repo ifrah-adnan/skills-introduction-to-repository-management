@@ -15,7 +15,7 @@ venv/          # Virtual environment for testing
 
 # Local development & testing
 instance/
-.pytest_cache/
+.pytest_cache/ 
 .coverage      # Test coverage reports
 htmlcov/
 
